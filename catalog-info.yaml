@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Tech-doc-1"
+  description: "Tech doc 1"
+  annotations:
+    github.com/project-slug: peawarrior/techdocs-example
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "protean"
