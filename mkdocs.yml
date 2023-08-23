@@ -2,8 +2,9 @@ site_name: "Tech-doc-1"
 site_description: "Tech doc 1"
 
 nav:
-  - Introduction: index.md
-  - Next: next.md
+  - Part Intro:
+    - Introduction: index.md
+    - Next: next.md
 
 plugins:
   - techdocs-core
