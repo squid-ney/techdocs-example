@@ -3,6 +3,7 @@ site_description: "Tech doc 1"
 
 nav:
   - Introduction: index.md
+  - Next: next.md
 
 plugins:
   - techdocs-core
