@@ -1,12 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Tech-doc-1"
-  description: "Tech doc 1"
+  name: techdocs-example
   annotations:
-    github.com/project-slug: peawarrior/techdocs-example
-    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: squid-ney/techdocs-example
 spec:
-  type: documentation
-  lifecycle: experimental
-  owner: "protean"
+  type: other
+  lifecycle: unknown
+  owner: team-a
