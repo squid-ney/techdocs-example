@@ -4,6 +4,7 @@ metadata:
   name: techdocs-example
   annotations:
     github.com/project-slug: squid-ney/techdocs-example
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
