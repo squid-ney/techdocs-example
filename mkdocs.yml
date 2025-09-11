@@ -1,9 +1,6 @@
 site_name: "Tech-doc-1"
 site_description: "Tech doc 1"
 
-markdown_extensions:
-  - markdown_inline_mermaid
-
 nav:
   - Part Intro:
     - Introduction: index.md
