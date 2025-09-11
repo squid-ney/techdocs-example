@@ -6,6 +6,14 @@ Tech doc 1
 
 Start write your documentation by adding more markdown (.md) files to this folder (/docs) or replace the content in this file.
 
+# Mermaid Test
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
+
 ## Table of Contents
 
 The Table of Contents on the right is generated automatically based on the hierarchy
